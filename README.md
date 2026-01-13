@@ -31,4 +31,5 @@ A real-time face detection system using Computer Vision.
 
 ---
 **Author:** Tanvi
+
 **Internship:** CodSoft (Artificial Intelligence)
