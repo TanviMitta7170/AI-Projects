@@ -1,4 +1,4 @@
-# CODSOFT Internship Projects - Artificial Intelligence
+# Artificial Intelligence Projects
 
 This repository contains the projects I completed during my AI Internship at CodSoft.
 
