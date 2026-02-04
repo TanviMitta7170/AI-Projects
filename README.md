@@ -4,7 +4,7 @@ This repository contains the projects I have done while learning about Artificia
 
 ## Projects Overview
 
-### 1. Tic-Tac-Toe AI (Task 2)
+### 1. Tic-Tac-Toe AI
 An unbeatable Tic-Tac-Toe agent built using the **Minimax Algorithm**.
 - **Tech Stack:** Python
 - **Features:**
@@ -12,7 +12,7 @@ An unbeatable Tic-Tac-Toe agent built using the **Minimax Algorithm**.
   - Impossible for a human to beat (always wins or ties).
   - Terminal-based interactive gameplay.
 
-### 2. AI Image Captioning (Task 3)
+### 2. AI Image Captioning
 A Deep Learning model that generates descriptive captions for images.
 - **Tech Stack:** Python, PyTorch, Transformers (Hugging Face)
 - **Model:** Vision Encoder-Decoder (ViT + GPT-2)
@@ -21,7 +21,7 @@ A Deep Learning model that generates descriptive captions for images.
   - Generates natural language descriptions using GPT-2.
   - Can process any user-uploaded image.
 
-### 3. Face Detection System (Task 5)
+### 3. Face Detection System
 A real-time face detection system using Computer Vision.
 - **Tech Stack:** Python, OpenCV
 - **Features:**
